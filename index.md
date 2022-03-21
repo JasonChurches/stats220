@@ -1,5 +1,18 @@
 
 # Welcome to my Assignment 1
+### *By: Jason Churches*
+
+
+## Meme creation
+
+The following meme was based off the expanding brain meme.
+I based my idea off my personal experence of having done 300 level stats papers prior to taking stats220.
+Now taking stats220 I have realised how much of a benefit it would have been to the assignments in the 300 lvl papers as r knowldege was assumed in those papers.
+
+**I made the meme unique by:**
++ gathering unique images that fit the same theme of the original meme
++ creating a personal message to the meme from my own experiences
+
 
 ![](meme.png)
 
