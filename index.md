@@ -1,5 +1,7 @@
 # Welcome to my Assignment 1
 
+![](meme.png)
+
 ```{r}
 library(magick)
 
