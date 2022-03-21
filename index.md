@@ -6,8 +6,8 @@
 ## Meme creation
 
 The following meme was based off the expanding brain meme.
-I based my idea off my personal experence of having done 300 level stats papers prior to taking stats220.
-Now taking stats220 I have realised how much of a benefit it would have been to the assignments in the 300 lvl papers as r knowldege was assumed in those papers.
+I based my idea off my personal experence of having done 300 level statistics papers prior to taking stats220.
+Now taking stats220 I have realised how much of a benefit it would have been to the assignments in the 300 level papers as r knowledge was assumed in those papers.
 
 **I made the meme unique by:**
 + gathering unique images that fit the same theme of the original meme
