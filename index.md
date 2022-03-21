@@ -16,6 +16,7 @@ Now taking stats220 I have realised how much of a benefit it would have been to 
 
 ![](meme.png)
 
+## Below is the R code used to create the meme
 ```{r}
 library(magick)
 
