@@ -1,3 +1,11 @@
+```{css}
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro:wght@600&display=swap');
+
+h1, h2 {font-family: 'Source Sans Pro', sans-serif;}
+
+body {font-family: 'Lora', serif; background-color: #FAF6E6}
+```
+
 # Welcome to my Assignment 1
 
 ![](meme.png)
